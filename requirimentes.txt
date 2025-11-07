@@ -1,0 +1,11 @@
+streamlit==1.43.0
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tensorflow
+neurokit2
+python-docx
+pyserial
+joblib
